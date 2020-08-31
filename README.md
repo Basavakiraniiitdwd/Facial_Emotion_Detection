@@ -29,7 +29,6 @@ In the end we fit the model. We are training it for 15 complete cycle or epochs.
 Image for post
 The number of epochs increases the loss is reduced and the accuracy is increased.
 
-CONCLUSION
 
 Face Recognition works very well with transfer learning. Transfer learning is just using a model which is pretrained and stacking your layers on top of the the pretrained model for predictions based on your custom dataset.
 Transfer learning is a method that allows us to use knowledge gained from other tasks in order tackle new but similar problems quickly and effectively. … This reduces the need for data related to the specific task we are dealing with.
