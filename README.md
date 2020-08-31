@@ -18,6 +18,7 @@ Here the 7 classes belong to the following categories:
 5) neutral
 6) sad
 7) surprise
+
 The most important part of the project is creating layers of Convolutional Neural Network. CNNs are regularized versions of multilayer percetrons. Multilayer perceptrons usually mean fully connected networks, that is, each neuron in one layer is connected to all neurons in the next layer. Fully connected layers are an essential component of Convolutional Neural Networks (CNNs), which have been proven very successful in recognizing and classifying images for computer vision.
 Image for post
 First we have created a Convolutional layer. Convolutional layers convolve the input and pass its result to the next layer. To increase the stability of a neural network, I have used batch normalization that normalizes the output of a previous activation layer.
